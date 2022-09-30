@@ -1,4 +1,4 @@
-> **_NOTE:_** This provider is a fork of missing [thycotic/terraform-provider-tss](https://github.com/thycotic/terraform-provider-tss)
+ 1> **_NOTE:_** This provider is a fork of missing [thycotic/terraform-provider-tss](https://github.com/thycotic/terraform-provider-tss)
 
 # Thycotic Secret Server - Terraform Provider
 
